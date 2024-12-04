@@ -1,0 +1,66 @@
+body {
+margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url("/CATEGORÍAS/IMAGEN/IMG/fondococina.webp");
+}
+
+header{
+
+    background-image: url("/CATEGORÍAS/IMAGEN/IMG/fondococina1.webp");
+    background-color: aqua;
+    color:black;
+    text-align: center;
+    padding: 1.5em;
+
+}
+
+
+footer {
+
+    background-color:darkgreen;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+    
+}
+
+.contenido {
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+nav , aside, section {
+   
+   display: inline-block;
+   height: 60vh;
+   padding: 10px;
+   text-align: justify;
+
+nav {
+
+    background-color:blueviolet;
+
+}
+
+aside {
+
+   background-color: darkkhaki;
+
+}
+
+section {
+    padding: 2px;
+    background-color: grey;
+
+}
+    
+h1 {
+text-align: center;
+
+}
+
+p {
+    color: aliceblue;
+}

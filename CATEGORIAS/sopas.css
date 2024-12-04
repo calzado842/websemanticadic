@@ -1,0 +1,49 @@
+.contenido1{
+    margin-top: 2%;
+    border-color: brown;
+    border-radius: 2px;
+    border-style: groove;
+    background-color: turquoise;
+    
+    }
+    
+    .contenido2 {
+        margin-top: 1%;
+        padding-bottom: 1%;
+        border-color: brown;
+        border-radius: 2px;
+        border-style: groove;
+        background-color: turquoise;
+
+    
+    }
+    
+    .contenido3{
+    
+        float: right;
+    }
+    
+    .contenido4{
+    
+        float: right;
+    }
+    header{
+
+        background-image: url("/CATEGORÍAS/IMAGEN/IMG/fondococina1.webp");
+        background-color: aqua;
+        color:black;
+        text-align: center;
+        padding: 1.5em;
+    
+    }
+
+    nav {
+
+        margin-left: 1.0rem;
+        margin-right: 85.5rem;
+        padding-bottom: 1.0rem;
+        padding-left: 1.0rem;
+    
+    background-color: yellow;
+    
+    }
